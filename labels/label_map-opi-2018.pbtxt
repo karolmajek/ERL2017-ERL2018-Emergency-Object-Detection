@@ -1,0 +1,32 @@
+item {
+  name: "unblocked"
+  id: 1
+}
+item {
+  name: "blocked"
+  id: 2
+}
+item {
+  name: "pipes"
+  id: 3
+}
+item {
+  name: "worker"
+  id: 4
+}
+item {
+  name: "ericard"
+  id: 5
+}
+item {
+  name: "damage"
+  id: 6
+}
+item {
+  name: "valve"
+  id: 7
+}
+item {
+  name: "barrier"
+  id: 8
+}
