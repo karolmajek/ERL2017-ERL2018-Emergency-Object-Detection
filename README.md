@@ -3,9 +3,7 @@ Object detection for ERL2017, ERL2018
 European Robotics League
 ERL Emergency
 
-## Label maps
-
-### ERL2017
+## ERL2017
 
 `labels/label_map-opi.pbtxt`
 
@@ -17,7 +15,12 @@ ERL Emergency
 6. damage
 7. valve
 
-### ERL2018
+### Models
+
+- model-ERL2017-001
+- model-ERL2017-002
+
+## ERL2018
 
 `labels/label_map-opi-2018.pbtxt`
 
@@ -30,7 +33,13 @@ ERL Emergency
 7. valve
 8. barrier
 
-### ERL2018 v2
+### Models
+
+- model-ERL2018-7classes-001
+- model-ERL2018-7classes-002
+- model-ERL2018-8classes-001
+
+## ERL2018 v2
 
 `labels/label_map-opi-2018-ericard.pbtxt`
 
@@ -45,3 +54,9 @@ ERL Emergency
 9. ericard_2
 10. ericard_3
 11. ericard_4
+
+# Models
+
+- model-ERL2018-11classes-001
+- model-ERL2018-11classes-002
+- model-ERL2018-11classes-003
